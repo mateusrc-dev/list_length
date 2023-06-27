@@ -1,5 +1,5 @@
-# SumList
+# ListLength
 
 ### projetinho para aplicar conceitos básicos da linguagem elixir ✔🚀
 
-### em produção 🚀🚀🚀
+### calcular recursivamente quantos elementos tem em uma lista 🚀🚀🚀
